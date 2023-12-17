@@ -1,4 +1,6 @@
 # Ex-06-Book-Cover-Design
+# Aim:
+Design the following book cover page using HTML and CSS
 ## PROCEDURE : 
  ### STEP 1 : HTML Structure
 
@@ -146,3 +148,5 @@ img {
 ``````
 # Output:
 ![Alt text](<Screenshot 2023-12-17 171847.png>)
+# Result 
+Hence the output was verified sucessfully.
